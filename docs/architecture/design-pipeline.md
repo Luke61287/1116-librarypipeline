@@ -23,4 +23,5 @@ flowchart TD
   CSVGold --> Datamart[Datamart]
   JSONGold --> Datamart[Datamart]
   TextGold --> Datamart[Datamart]
-  ExcelGold --> Datamart[Datamart] 
+  ExcelGold --> Datamart[Datamart]
+
